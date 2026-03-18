@@ -61,21 +61,19 @@ O projeto foi desenvolvido com:
 
 ## 📂 Estrutura do Projeto
 
+```
 projeto/
-
 ├── frontend/
-│ ├── src/
-│ ├── public/
-│ └── package.json
-│
+│   ├── src/
+│   ├── public/
+│   └── package.json
 ├── backend/
-│ ├── models/
-│ ├── controllers/
-│ ├── routes/
-│ ├── app.py
-│ └── requirements.txt
-│
+│   ├── models/
+│   ├── controllers/
+│   └── app.py
+├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 
