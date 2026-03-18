@@ -62,6 +62,7 @@ O projeto foi desenvolvido com:
 ## 📂 Estrutura do Projeto
 
 projeto/
+
 ├── frontend/
 │ ├── src/
 │ ├── public/
@@ -76,6 +77,5 @@ projeto/
 │
 ├── README.md
 └── .gitignore
-
 
 
