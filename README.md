@@ -38,6 +38,23 @@ O projeto foi desenvolvido com:
 - Backend estruturado no padrão **MVC**
 - Comunicação via **API REST**
 
+## 📂 Estrutura do Projeto
+
+```
+projeto/
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+├── backend/
+│   ├── models/
+│   ├── controllers/
+│   └── app.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+```
+
 ## 🛠️ Tecnologias Utilizadas
 
 ### 🎨 Frontend
@@ -58,22 +75,5 @@ O projeto foi desenvolvido com:
 - GitHub
 - CI/CD (em implementação)
 
-
-## 📂 Estrutura do Projeto
-
-```
-projeto/
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   └── package.json
-├── backend/
-│   ├── models/
-│   ├── controllers/
-│   └── app.py
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
 
 
